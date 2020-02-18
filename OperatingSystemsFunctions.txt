@@ -1,0 +1,1 @@
+One operating system function is that they provide a user interface. A user interface controls how data and intstructions are entered and how information is displayed on the screen. Most users work with a graphical user interface, where you interact with visual images by touching, pointing, tapping, and clicking objects to issue commands.
